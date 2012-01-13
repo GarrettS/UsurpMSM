@@ -1,7 +1,9 @@
 # UsurpMSM  
 
-## For users & non-programmers: Home page
+## For users & non-programmers
+Home page:
 http://garretts.github.com/UsurpMSM/
+
 Cards:
 http://garretts.github.com/UsurpMSM/card/
 
